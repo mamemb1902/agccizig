@@ -1,0 +1,12 @@
+body {
+   background-image: url(backg.webp)
+}
+h2 {text-decoration-line: underline;}
+table {
+   background-color: rosybrown;
+}
+a {
+text-decoration: none;
+color: blueviolet;
+font-size: 25px;
+}
